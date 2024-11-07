@@ -1,5 +1,5 @@
 # Merge Sort Recursion
-Classroom live code to accompany the CS Fundamentals: Recursion topic.
+Classroom activity to accompany the CS Fundamentals: Recursion topic.
 
 ## One-Time Activity Setup
 
